@@ -5,7 +5,7 @@ body{
 .attribution a { color: hsl(228, 45%, 44%); }
 
 #firstcard{
-    width: 384px;
+    width: 384px; 
     height: 522px;
     border-radius: 15px;
     background-color: white;
