@@ -7,8 +7,8 @@ body{
 .attribution a { color: hsl(228, 45%, 44%); }
 
 #firstcard{
-    width: 384px;
-    height: 522px;
+    width: 30%;
+    height: 50%;
     border-radius: 15px;
     background-color: white;
     box-shadow: 7px 7px 0px rgba(0, 0, 0), 0px 2px 0px rgba(0, 0, 0, 0.8);
@@ -16,11 +16,11 @@ body{
     margin: auto;
     justify-content: center;
 }
-svg{
-    border-radius: 15px;
-    margin: 25px;
-    margin-top: 20px;
-    margin-bottom: 15px;
+.svg_image svg{
+    width: 100%;
+    margin: 0.1rem;
+    margin-top: 1rem;
+    border-radius: 30px;
 }
 .thebutton{
     background-color: #F4D04E;
