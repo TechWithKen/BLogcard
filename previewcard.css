@@ -1,6 +1,6 @@
 body{
     background-color: #F4D04E;
-    height: 1000px;
+    height:100%;
     align-content: center;
 }
 .attribution { font-size: 15px; text-align: center; margin: 20px; font-weight: bolder;}
@@ -63,13 +63,4 @@ svg{
     flex-wrap: wrap;
     border-radius: 100px;
     border: 2px solid;
-}
-
-.name{
-    font-weight: bolder;
-    font-family: "Tahoma";
-    margin: 10px;
-    position: absolute;
-    top: 111%;
-    left: 40.4%;
 }
